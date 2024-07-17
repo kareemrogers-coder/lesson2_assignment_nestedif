@@ -6,7 +6,7 @@
 
 ##You are provided with a Python script that is supposed to guide a user through an adventure game, but it has some errors. Identify and fix them.
 
-###Buggy Code:
+####Buggy Code:
 
 """ place = input("Choose a place: forest or cave? ")
 
