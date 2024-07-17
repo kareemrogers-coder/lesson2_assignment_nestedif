@@ -19,7 +19,7 @@ if place = "forest":
 elif place = "cave":
     print("You find a hidden treasure!") """
 
-#####BELOW IS THE CORRECTED VERSION:
+####BELOW IS THE CORRECTED VERSION:
 
 place = input("Choose a place: forest or cave? ")
 
