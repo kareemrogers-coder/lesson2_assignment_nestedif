@@ -32,8 +32,8 @@ if place == "forest":
 elif place == "cave":
     print("You find a hidden treasure!")
 
-print("="*50)
-print("="*50)
+print("="*60)
+print("="*60)
 
 ####TASK 2 (SETTING THE SCENE) 
 

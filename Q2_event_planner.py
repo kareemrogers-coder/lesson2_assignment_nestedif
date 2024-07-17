@@ -29,10 +29,10 @@ attendees = int(input("Enter number of attendees: "))
 
 print("large hall" if attendees >= 100 else "conference room")
 
-caters_selector = input(" Would you like a vegetarian option yes or no? ")
-if caters_selector == "yes":
+caterers_selector = input(" Would you like a vegetarian option yes or no? ")
+if caterers_selector == "yes":
     print("Veggie Delight Caterers")
-elif caters_selector == "no":
+elif caterers_selector == "no":
     print ("Gourmet Meals Caterers")
 else:
     print("invalid answer.. program terminated")
